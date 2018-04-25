@@ -5,13 +5,13 @@ A simple & practical jQuery script to help you maintain uniform width & height a
 The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
 <ul>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css">
-      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css
+    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.css">
+      https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/fd953332/bootstrap-spacer.min.css">
-      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/fd953332/bootstrap-spacer.min.css
+    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.js">
+      https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.js
     </a>
   </li>
 </ul> 
