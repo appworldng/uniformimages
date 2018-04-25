@@ -1,6 +1,21 @@
 # uniformimages
 A simple & practical jQuery script to help you maintain uniform width & height across a group of images on your website.
 
+## CDN
+The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
+<ul>
+  <li>
+    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css">
+      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/65b410d7/bootstrap-spacer.css
+    </a>
+  </li>
+  <li>
+    <a href="https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/fd953332/bootstrap-spacer.min.css">
+      https://cdn.rawgit.com/chigozieorunta/bootstrap-spacer/fd953332/bootstrap-spacer.min.css
+    </a>
+  </li>
+</ul> 
+
 ### Usage
 The "**unim**" class is ideal for use on images you want to appear as uniform (same width & height). Very useful for most websites, especially when you can't control what the user may or may not upload to his/her site.
 
@@ -20,7 +35,7 @@ The **unim, unim-square, unim-circle, unim-landscape, unim-portrait** classes pr
 </head>
 
 <body>
-  <section style="padding: 3em 0;">
+  <section>
       <div class="container-fluid">
           <div class="row">
               <div class="col-sm-3">
@@ -48,7 +63,7 @@ The **unim-square, unim-circle, unim-landscape, unim-portrait** help you acheive
 </head>
 
 <body>
-  <section style="padding: 3em 0;">
+  <section>
       <div class="container-fluid">
           <div class="row">
               <div class="col-sm-3">
@@ -79,7 +94,7 @@ The **unim-square, unim-circle, unim-landscape, unim-portrait** help you acheive
 ```
 
 #### Custom Height
-You can also assign a custom height to the image if you so desire, (**however this only applies to the unim class, when used with other "unim classes like unim-squre, unim-circle and so on..." the custom height is overridden to acheive the geometric shapes**). Here's a sample below...
+You can also assign a custom height to the image if you so desire, (**however this only applies to the unim class, when used with other "unim classes like unim-square, unim-circle and so on..." the custom height is overridden to acheive the geometric shapes**). Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -91,7 +106,7 @@ You can also assign a custom height to the image if you so desire, (**however th
 </head>
 
 <body>
-  <section style="padding: 3em 0;">
+  <section>
       <div class="container-fluid">
           <div class="row">
               <div class="col-sm-3">
@@ -105,6 +120,9 @@ You can also assign a custom height to the image if you so desire, (**however th
 </body>
 </html>
 ```
+
+#### No Image
+In the absence of an image, uniformimages displays a placeholder containing an empty ash background with an icon in the middle.
 
 ### Contributions
 Anyone and everyone is welcome to contribute. 
