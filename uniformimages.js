@@ -7,7 +7,7 @@
 **/
 
 $(document).ready(function() {
-    $('.unim').each(function(index, element) {
+    $('.unim, .unim-square, .unim-circle, .unim-portrait, .unim-landscape').each(function(index, element) {
         //Get variables...
         var dynamicDiv = '';
         var source = $(this).attr("src");
