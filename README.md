@@ -13,7 +13,7 @@ The CDN is updated after the release is made public. Always, check the GitHub pa
     <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/9af9a622/uniformimages.js">
       https://cdn.rawgit.com/chigozieorunta/uniformimages/9af9a622/uniformimages.js
     </a>
-  </li
+  </li>
   <li>
     <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.css">
       https://cdn.rawgit.com/chigozieorunta/uniformimages/04eff4b2/uniformimages.min.css
