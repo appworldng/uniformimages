@@ -15,13 +15,13 @@ The CDN is updated after the release is made public. Always, check the GitHub pa
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/a6cdbc13/uniformimages.min.css">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/a6cdbc13/uniformimages.min.css
+    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.css">
+      https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/a6cdbc13/uniformimages.min.js">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/a6cdbc13/uniformimages.min.js
+    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.js">
+      https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.js
     </a>
   </li>
 </ul> 
