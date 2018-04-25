@@ -1,0 +1,12 @@
+.unim {
+    background-color: #F8F8F8;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    padding-top: 100%;
+}
+
+.unim-height {
+    padding-top: 0;
+}
