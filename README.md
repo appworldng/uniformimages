@@ -17,7 +17,7 @@ The CDN is updated after the release is made public. Always, check the GitHub pa
 </ul> 
 
 ### Usage
-The "**unim**" class is ideal for use on images you want to appear as uniform (same width & height). Very useful for most websites, especially when you can't control what the user may or may not upload to his/her site.
+The "**unim**" class is ideal for use on images that should appear uniform (same width & height). Very useful for most websites, especially when you can't control the kind of image the user may or may not upload to his/her site.
 
 ### Requirements
 jQuery.js
