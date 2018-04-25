@@ -1,3 +1,11 @@
+/**
+ * uniformimages - v1.0.0 - 2018-04-25
+ * https://github.com/chigozieorunta/uniformiamges
+ *
+ * Copyright (c) 2018 Chigozie Orunta
+ * Licensed MIT <https://github.com/chigozieorunta/uniformimages/blob/master/LICENSE>
+**/
+
 $(document).ready(function() {
     $('.unim').each(function(index, element) {
         //Get variables...
