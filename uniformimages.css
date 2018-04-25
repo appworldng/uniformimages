@@ -1,4 +1,4 @@
-.unim {
+.unim, .unim-square, .unim-circle, .unim-portrait, .unim-landscape {
     overflow: hidden;
     padding-top: 66.66%;
     text-align: center;
