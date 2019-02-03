@@ -1,6 +1,12 @@
 # uniformimages
 A simple & practical jQuery script to help you maintain uniform width & height across a group of images on your website.
 
+## NPM
+You can install directly via NPM to your project folder.
+```
+npm install uniformimages
+```
+
 ## CDN
 The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
 <ul>
