@@ -1,0 +1,32 @@
+{
+    "name": "uniformimages",
+    "version": "1.0.0",
+    "description": "A simple & practical jQuery script to help you maintain uniform width & height across a group of images on your website.",
+    "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/uniformimages)",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chigozieorunta/uniformimages.git"
+    },
+    "keywords": [
+        "chigozieorunta",
+        "npm",
+        "package",
+        "unim",
+        "uniformimages",
+        "jquery",
+        "uniform",
+        "images",
+        "chigozie",
+        "orunta"
+    ],
+    "files": [
+        "uniformimages.css",
+        "uniformimages.min.css",
+        "uniformimages.js",
+        "uniformimages.min.js"
+    ]
+}
