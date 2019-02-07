@@ -11,23 +11,23 @@ npm install uniformimages
 The CDN is updated after the release is made public. Always, check the GitHub page for the latest release.
 <ul>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/adda213d/uniformimages.css">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/adda213d/uniformimages.css
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.css">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/adda213d/uniformimages.js">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/adda213d/uniformimages.js
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.js">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.js
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.css">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.css
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.css">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.css
     </a>
   </li>
   <li>
-    <a href="https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.js">
-      https://cdn.rawgit.com/chigozieorunta/uniformimages/6a5caec8/uniformimages.min.js
+    <a href="https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.js">
+      https://cdn.jsdelivr.net/gh/chigozieorunta/uniformimages/uniformimages.min.js
     </a>
   </li>
 </ul> 
