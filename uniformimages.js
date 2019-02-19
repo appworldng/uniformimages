@@ -1,5 +1,5 @@
 /**
- * uniformimages - v1.0.0 - 2018-04-25
+ * uniformimages - v1.0.1 - 2018-04-25
  * https://github.com/chigozieorunta/uniformimages
  *
  * Copyright (c) 2018 Chigozie Orunta
