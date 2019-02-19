@@ -39,7 +39,7 @@ The "**unim**" class is ideal for use on images that should appear uniform (same
 jQuery.js
 
 #### Image Styling
-The **unim, unim-square, unim-circle, unim-landscape, unim-portrait, unim-star** classes provide a wide variety of styling for you to choose from. By default the images take a 100% of their parent's width when the **unim** class is applied. Here's a sample below...
+The **unim, unim-square, unim-circle, unim-landscape, unim-portrait, unim-diamond** classes provide a wide variety of styling for you to choose from. By default the images take a 100% of their parent's width when the **unim** class is applied. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -67,7 +67,7 @@ The **unim, unim-square, unim-circle, unim-landscape, unim-portrait, unim-star**
 ```
 
 #### Other Unim Classes
-The **unim-square, unim-circle, unim-landscape, unim-portrait, unim-star** help you acheive certain geometric shapes with ease. Here's a sample below...
+The **unim-square, unim-circle, unim-landscape, unim-portrait, unim-diamond** help you acheive certain geometric shapes with ease. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -109,8 +109,8 @@ The **unim-square, unim-circle, unim-landscape, unim-portrait, unim-star** help 
 </html>
 ```
 
-#### Unim-Star (Latest Addition)
-The **unim-star** tilts your image into a star like position. Here's a sample below...
+#### Unim-Diamond (Latest Addition)
+The **unim-diamond** tilts your image into a star like position. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -127,17 +127,17 @@ The **unim-star** tilts your image into a star like position. Here's a sample be
           <div class="row">
               <div class="col-sm-4">
                   <a href="product1.html">
-                      <img src="image1.jpg" class="unim-star"/>
+                      <img src="image1.jpg" class="unim-diamond"/>
                   </a>
               </div>
               <div class="col-sm-4">
                   <a href="product2.html">
-                      <img src="image2.jpg" class="unim-star"/>
+                      <img src="image2.jpg" class="unim-diamond"/>
                   </a>
               </div>
               <div class="col-sm-4">
                   <a href="product3.html">
-                      <img src="image3.jpg" class="unim-star"/>
+                      <img src="image3.jpg" class="unim-diamond"/>
                   </a>
               </div>
           </div>
