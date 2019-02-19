@@ -39,7 +39,7 @@ The "**unim**" class is ideal for use on images that should appear uniform (same
 jQuery.js
 
 #### Image Styling
-The **unim, unim-square, unim-circle, unim-landscape, unim-portrait** classes provide a wide variety of styling for you to choose from. By default the images take a 100% of their parent's width when the **unim** class is applied. Here's a sample below...
+The **unim, unim-square, unim-circle, unim-landscape, unim-portrait, unim-star** classes provide a wide variety of styling for you to choose from. By default the images take a 100% of their parent's width when the **unim** class is applied. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -67,7 +67,7 @@ The **unim, unim-square, unim-circle, unim-landscape, unim-portrait** classes pr
 ```
 
 #### Other Unim Classes
-The **unim-square, unim-circle, unim-landscape, unim-portrait** help you acheive certain geometric shapes with ease. Here's a sample below...
+The **unim-square, unim-circle, unim-landscape, unim-portrait, unim-star** help you acheive certain geometric shapes with ease. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
@@ -100,6 +100,44 @@ The **unim-square, unim-circle, unim-landscape, unim-portrait** help you acheive
               <div class="col-sm-3">
                   <a href="product4.html">
                       <img src="image4.jpg" class="unim-landscape"/>
+                  </a>
+              </div>
+          </div>
+      </div>
+  </section>
+</body>
+</html>
+```
+
+#### Unim-Star (Latest Addition)
+The **unim-star** tilts your image into a star like position. Here's a sample below...
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="uniformimages.css" rel="stylesheet" type="text/css"/>
+  <script src="uniformimages.js" type="text/javascript"></script>
+</head>
+
+<body>
+  <section>
+      <div class="container-fluid">
+          <div class="row">
+              <div class="col-sm-4">
+                  <a href="product1.html">
+                      <img src="image1.jpg" class="unim-star"/>
+                  </a>
+              </div>
+              <div class="col-sm-4">
+                  <a href="product2.html">
+                      <img src="image2.jpg" class="unim-star"/>
+                  </a>
+              </div>
+              <div class="col-sm-4">
+                  <a href="product3.html">
+                      <img src="image3.jpg" class="unim-star"/>
                   </a>
               </div>
           </div>
