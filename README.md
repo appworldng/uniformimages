@@ -110,7 +110,7 @@ The **unim-square, unim-circle, unim-landscape, unim-portrait, unim-diamond** he
 ```
 
 #### Unim-Diamond (Latest Addition)
-The **unim-diamond** tilts your image into a star like position. Here's a sample below...
+The **unim-diamond** tilts your image into a diamond like position. Here's a sample below...
 ```
 <!DOCTYPE html>
 <html>
